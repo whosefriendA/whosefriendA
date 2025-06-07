@@ -18,9 +18,17 @@
 ---
 ### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=whosefriendA&show_icons=true&&hide_border=true" alt="stats" width="40%" />
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=whosefriendA&show_icons=true&&hide_border=true" alt="whosefriendA's Github Stats" width="420" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosefriendA&theme=dark&layout=compact" width="320" />
+  </td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosefriendA&theme=dark&layout=compact" width="30%" />
 
 
 
