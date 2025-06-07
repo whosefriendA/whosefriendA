@@ -24,6 +24,9 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
 </p>
+![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![OpenSource](https://img.shields.io/badge/-OpenSource-F05032?logo=github&logoColor=white)
 
 ---
 
