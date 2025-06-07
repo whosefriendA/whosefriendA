@@ -10,7 +10,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-- 🔧 Languages: Go&&c++/c
+- 🔧 Languages: Go/c++/c
 - ☁️ Interests: cloud native,linux,microservices，Kubernetes.
 - 🧠 Always learning: Distributed systems, OS internals, microservices
 - 📖 Side: I read source code for fun
