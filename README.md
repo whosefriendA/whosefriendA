@@ -10,10 +10,9 @@
 
 - 🔧 Languages: Go/c++/c
 - ☁️ Interests: cloud native,linux,microservices，Kubernetes.
-- 🧠 Always learning: Distributed systems, OS internals, microservices
+- 🧠 Always learning: Distributed systems, microservices , OS.
 - 📖 Side: I read source code for fun
 
----
 ### 📈 GitHub Stats
 
 <table>
@@ -27,10 +26,6 @@
 </tr>
 </table>
 
-
-
-
----
 ### 📫 Contact
 
 - Email: whosefrienda@163.com
