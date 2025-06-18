@@ -3,10 +3,10 @@
 
 ### 💡 About Me
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Cloud Native](https://img.shields.io/badge/Cloud_Native-0078D4?style=flat-square&logo=cloudsmith&logoColor=white)
+![Cloud Native](https://img.shields.io/badge/Cloud_Native-0078D4?style=flat-square&logo=cncf&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=architect&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
