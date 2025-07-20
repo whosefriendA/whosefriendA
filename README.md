@@ -11,7 +11,7 @@
 
 
 - 🔧 Languages:  Go , C/C++
-- ☁️ Interests:  Cloud Native , Web , microservices , Kubernetes.
+- ☁️ Interests:  Cloud Native , microservices , Kubernetes.
 - 🧠 Always learning:  Distributed Systems , microservices , Cloud Native.
 
 ### 📈 GitHub Stats
