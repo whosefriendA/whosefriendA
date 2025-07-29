@@ -28,5 +28,5 @@
 
 ### 📫 Contact
 
-- Email: whosefrienda@163.com
+- Email: whosefrienda@gmail.com
 - Blog: https://whosefrienda.github.io/
