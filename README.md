@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-
 ### 💡 About Me
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Cloud Native](https://img.shields.io/badge/Cloud_Native-0078D4?style=flat-square&logo=cncf&logoColor=white)
@@ -19,17 +18,8 @@
 <tr>
   <td>
     <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=whosefriendA&show_icons=true&&hide_border=true" alt="whosefriendA's Github Stats" width="420" />
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whosefriendA&theme=dark&layout=compact" width="320" />
-  </td>
-</tr>
+
 </table>
-
-### 🧑‍💻 Weekly development breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 
 ### 📫 Contact
 
