@@ -11,7 +11,7 @@
 
 - 🔧 Languages:  Go , C/C++
 - 🧠 Always learning:  Distributed Systems , microservices , Cloud Native , Kubernetes.
-- 🌱 Currently learning Agent , AIGC.
+- 🌱 Currently learning: Agent , AIGC.
 ### 📈 GitHub Stats
 
 <table>
